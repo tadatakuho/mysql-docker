@@ -1,6 +1,6 @@
-# mysql-docker  
+# mysql-docker
 
-MySQLの環境をDockerでローカルに一瞬で作るためのリポジトリです。サンプルデータも自動で注入されます。　　
+MySQLの環境をDockerでローカルに一瞬で作るためのリポジトリです。サンプルデータも自動で注入されます。
 
 以下のコマンドを Mac のターミナルから実行してください。**3 ステップ**のみです。
 
@@ -25,5 +25,5 @@ docker-compose up -d
 
 # 詳細
 
-使い方詳細記事↓  
+使い方詳細記事↓
 https://zenn.dev/takuho/articles/efc40344f3122e
